@@ -1,8 +1,6 @@
 ### Hi there! My name is Mauricio Antero
 
-- 🔭 I’m currently working with Front-End Development
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on open source projects
+- 🔭 I’m currently working with Front-End Development, both with ReactJS and ReactNative
 
 <div>
   <a href="https://github.com/mjunior447">
