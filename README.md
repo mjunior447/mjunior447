@@ -1,6 +1,7 @@
 ### Hi there! My name is Mauricio Antero
 
-- 🔭 I’m currently working with Front-End Development, both with ReactJS and ReactNative
+- A Fullstack Web Developer with focus on the Frontend side
+- My recent projects include Next.js, React.js, TailwindCSS, ShadCN, MaterialUI, Node.js, ReactNative
 
 <div>
   <a href="https://github.com/mjunior447">
@@ -15,7 +16,6 @@
   <img align="center" alt="Mau-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Mau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
