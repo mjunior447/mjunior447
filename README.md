@@ -1,7 +1,7 @@
 ### Hi there! My name is Mauricio Antero
 
 - A Fullstack Web Developer with focus on the Frontend side
-- My recent projects include Next.js, React.js, TailwindCSS, ShadCN, MaterialUI, Node.js, ReactNative
+- My recent projects include Next.js, React.js, TypeScript, TailwindCSS, ShadCN, MaterialUI, Node.js, ReactNative
 
 <div>
   <a href="https://github.com/mjunior447">
